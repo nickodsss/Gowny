@@ -8,3 +8,5 @@ Gowny stands as the collaborative achievement of our groups. It represents the c
 - Talk.js Live Chat: Elevates user engagement through real-time communication capabilities.
 - Speechly Integration: Enhances user-friendliness with voice-enabled interactions.
 - Google Analytics: Empowers us with insights into user behavior and app performance.
+
+Tech stack: React.JS, Redux-Thunk, Google Maps, Payment Gateway (iPaymu: Qris), TalkJS, Google Analytics, Speechly, Tailwind, Firebase, Axios, Express, JWT, Jest, Redis Labs, Sequelize, PostgresQL, Supabase, AWS EC2
