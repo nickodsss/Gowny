@@ -1,0 +1,182 @@
+[
+    {
+      "name": "Cinderella Divine Sleeveless Mermaid Wedding Gown",
+      "description": "This elegant dress, made with premium materials, shines out with a stunning confection of lace, embellishments, and tulle fabric. Both romantic and conventional brides looking for a touch of sophistication and flawless taste will love this off the shoulder wedding dress!",
+      "grade": "B",
+      "price": 13500000,
+      "mainImage": "https://www.thedressoutlet.com/cdn/shop/products/A1036W.jpg?v=1689806529&width=1646",
+      "CategoryId": 4,
+      "StoreId": 1
+    },
+    {
+      "name": "Leon Long Wedding Dress Bridal",
+      "description": "Discover the dream of your perfect wedding dress at Gowny. This gorgeous long wedding dress features a puff sleeves worthy of medieval princess. A-line dress with elongated back skirt design. This Andrea & Leo wedding dress is a perfect choice for both romantic and elegant brides who desire a hint of class with perfect style!",
+      "grade": "S",
+      "price": 15000000,
+      "mainImage": "https://www.thedressoutlet.com/cdn/shop/files/andrea-and-leo-a1014-long-wedding-dress-bridal-1.jpg?v=1689862926&width=1646",
+      "CategoryId": 1,
+      "StoreId": 2
+    },
+    {
+      "name": "Andrea Long Off Shoulder Wedding Dress Bridal",
+      "description": "This whimsical long wedding dress features an off shoulder sweetheart neckline. A-line dress, decorated with lace appliques.",
+      "grade": "S",
+      "price": 8000000,
+      "mainImage": "https://www.thedressoutlet.com/cdn/shop/files/andrea-and-leo-a0822-long-off-shoulder-wedding-dress-bridal-1.jpg?v=1689862940&width=1646",
+      "CategoryId": 2,
+      "StoreId": 3
+    },
+    {
+      "name": "CÉLINE Sparkling Tulle Wedding Dress",
+      "description": "CÉLINE is a sparkling A-line wedding dress with a unique sculpted scoop neckline on multiple layers of lace and tulle, as well as sweet, detachable off-the-shoulder tulle sleeves. The glimmering floral lace is delicately placed on the bodice and cascades down to the soft tulle skirt featuring a sexy slit. Have all your wedding guests’ jaws drop when they see the stunning exposed illusion corset back and the impeccable sculpted train.",
+      "grade": "S",
+      "price": 10000000,
+      "mainImage": "https://cdn0.weddingwire.com/cat/10056429--mfvo10056429.jpg",
+      "CategoryId": 3,
+      "StoreId": 2
+    },
+    {
+      "name": "Cinderella Divine Long A-line Bridal Gown",
+      "description": "This gorgeous long bridal dress features a strapless sweetheart neckline. Layered tulle skirt with slit, lace applique over structured bodice.",
+      "grade": "S",
+      "price": 19000000,
+      "mainImage": "https://www.thedressoutlet.com/cdn/shop/files/cinderella-divine-cb065w-long-a-line-bridal-gown-1.jpg?v=1689870492&width=1646",
+      "CategoryId": 5,
+      "StoreId": 2
+    },
+    {
+      "name": "Long Formal Mermaid Style Wedding Gown",
+      "description": "This gorgeous mermaid dress features a deep v-neckline with mesh inset. Fitted mermaid style decorated with sparkling rhinestones. Made from high quality and comfortable materials, the fit and design will take your breath away.",
+      "grade": "C",
+      "price": 19000000,
+      "mainImage": "https://www.thedressoutlet.com/cdn/shop/products/long-formal-mermaid-style-wedding-gown-the-dress-outlet-1.jpg?v=1645616983&width=1646",
+      "CategoryId": 4,
+      "StoreId": 1
+    },
+    {
+      "name": "Janet Wedding Dress",
+      "description": "Full of romance and whimsy, our Janet designer wedding dress features a beautiful boned bodice with a sweetheart neckline in lovely Chantilly lace, all adorned with floral crystal beaded embroidery. The A-line tulle gown has a cloud-like effect and delicately floats off the body to a sweet lace-trimmed train. Pair the dress with detachable pouf sleeves for a more playful look. Shown in Ivory/Honey.",
+      "grade": "A",
+      "price": 20000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2022/10/24170410/product_img_4103_feature_img-scaled.jpg",
+      "CategoryId": 2,
+      "StoreId": 5
+    },
+    {
+      "name": "Maxine Wedding Dress",
+      "description": "Our Maxine wedding dress gives you a one-of-a-kind wedding day look. The mini dress features stunning frosted, three-dimensional lace appliqués over shimmering sparkle tulle with a sultry, plunging sweetheart neckline. The detachable tulle overskirt adds volume and drama, serving two looks in one, perfect for transitioning from ceremony to reception, while detachable bell sleeves add a boho flair.",
+      "grade": "A",
+      "price": 20000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2023/05/08154451/product_img_2556_feature_img-scaled.jpg",
+      "CategoryId": 1,
+      "StoreId": 4
+    },
+    {
+        "name": "Melina Wedding Dress",
+        "description": "Dramatic texture makes our Melina designer wedding dress a stand out. The straight neck, strapless bodice has boning to give you structure and shape, enhancing the look of a narrow waist. Blingy crystal beading on pattern sequin tulle over sparkle tulle gives the bodice an unreal shimmer, especially when paired with the over-the-top ruffled organza ball gown skirt.",
+        "grade": "A",
+        "price": 26000000,
+        "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2023/05/08103604/product_img_4131_feature_img-scaled.jpg",
+        "CategoryId": 2,
+        "StoreId": 3
+    },
+    {
+      "name": "Mckenna Wedding Dress",
+      "description": "An instant classic, our Mckenna designer wedding dress is an understated ball gown in radiant Diamantina satin. The strapless, sweetheart bodice features contoured seaming, that helps to lengthen the body, and a billowing A-line skirt. The peplum on the back is a vintage touch that we’re sure our brides will love.",
+      "grade": "C",
+      "price": 24000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2023/05/08154729/product_img_2557_feature_img-scaled.jpg",
+      "CategoryId": 3,
+      "StoreId": 3
+    },
+    {
+      "name": "Maisie Wedding Dress",
+      "description": "Our Maisie designer wedding dress is a whimsical A-line with enchanting details. The sweetheart bodice features stunning frosted embroidered appliqués over romantic Chantilly lace, with angled boning to give you the look of a narrow waist. The effortless tulle skirt floats off the body, featuring a front skirt slit for added movement, and a lovely lace-trimmed train. Detachable long pouf sleeves with ruched cuff at the wrist add to the fairytale feeling of the gown.",
+      "grade": "S",
+      "price": 28000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2023/05/08104358/product_img_4135_feature_img-scaled.jpg",
+      "CategoryId": 2,
+      "StoreId": 1
+    },
+    {
+      "name": "Lucy Wedding Dress",
+      "description": "Our Lucy designer wedding dress combines modern design with vintage inspiration. Featuring a modest bateau bodice with contoured seams to define your figure on the ball gown silhouette. The pleated satin skirt feels classic and the buttons down to the hemline are a timeless touch, but our favorite part is the satin organza bishop sleeves with a cuff at the wrist.",
+      "grade": "A",
+      "price": 24000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2023/05/08105932/product_img_30141_feature_img-scaled.jpg",
+      "CategoryId": 1,
+      "StoreId": 2
+    },
+    {
+      "name": "Marjorie Wedding Dress",
+      "description": "Our Marjorie designer wedding dress is a dramatic ball gown with simple details. The silky Larissa satin gown has a strapless, sweetheart bodice with textural seams for added dimension. The pleated A-line skirt is voluminous, with a grand feel and a daring skirt slit for a modern design element. Buttons down to the hem are a timeless touch making this a truly classic ball gown.",
+      "grade": "B",
+      "price": 18000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2023/05/08100229/product_img_15030_gallery_img_2-scaled.jpg",
+      "CategoryId": 4,
+      "StoreId": 5
+    },
+    {
+      "name": "Janine Wedding Dress",
+      "description": "Get all the fairytale feels with our Janine designer wedding dress. The sheer corset bodice dazzles with intricate beading and a sultry center plunge detail that leads to gorgeous triple beaded straps. The glimmering glitter tulle skirt is fabulously flounced with horsehair edging to define each layer for a textured and dramatic look.",
+      "grade": "C",
+      "price": 16000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2022/10/24160826/product_img_2510_feature_img-scaled.jpg",
+      "CategoryId": 2,
+      "StoreId": 1
+    },
+    {
+      "name": "Jeanette Wedding Dress",
+      "description": "Our Jeanette designer wedding dress serves you the full fairytale fantasy with botanical-inspired frosted embroidered lace on an effortless A-line silhouette. The tulle looks ethereal as it floats off the body, while the structured strapless bodice, with peek-a-boo detail, gives the dress an edge. Detachable draped off-the-shoulder bishop sleeves add to the whimsy of the gown.",
+      "grade": "C",
+      "price": 14000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2022/10/24162801/product_img_2523_feature_img-scaled.jpg",
+      "CategoryId": 1,
+      "StoreId": 3
+    },
+    {
+      "name": "Josefina Wedding Dress",
+      "description": "If you want drama and glamour, look no further than our Josefina designer wedding dress. The over-the-top ball gown features a delicately draped bodice with romantic sweetheart neckline and a matching detachable tie-back stole. The ruffled tulle skirt creates fabulous texture with a subtle, swirling floral motif for a gown that will leave guests gasping as you walk down the aisle.",
+      "grade": "B",
+      "price": 18000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2022/10/24172646/product_img_4119_feature_img-scaled.jpg",
+      "CategoryId": 2,
+      "StoreId": 5
+    },
+    {
+      "name": "Farrah Wedding Dress",
+      "description": "Your fairytale bridal dreams come true in our Farrah designer wedding dress. This beautiful ball gown features a decadent mix of ivy-inspired lace and frosted, three-dimensional floral appliqués. The romantic off-the-shoulder bodice is enhanced with illusion details, like the beautiful sheer back.",
+      "grade": "A",
+      "price": 20000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2022/04/05172103/product_img_2483_feature_img-scaled.jpg",
+      "CategoryId": 2,
+      "StoreId": 3
+    },
+    {
+      "name": "Fausta Wedding Dress",
+      "description": "Our Fausta designer wedding dress is here to sweep you off your feet. The beautiful ball gown features a Chantilly lace bodice, with a sweetheart neckline, adorned in crystal beaded, three-dimensional floral embroidery. The fantasy continues with a full organza ball gown skirt and sparkling crystal buttons lining down to the horsehair edged hem. Detachable tie bow sleeves add a touch of whimsy to the dress.",
+      "grade": "A",
+      "price": 22000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2022/04/05175820/product_img_5983_feature_img-scaled.jpg",
+      "CategoryId": 2,
+      "StoreId": 1
+    },
+    {
+      "name": "Filomena Wedding Dress",
+      "description": "The ultimate fairytale dress, our Filomena designer wedding dress is flirty and fanciful. The sparkle tulle A-line ball gown features a structured scoop neckline on a sheer corset bodice adorned in crystal beaded, three-dimensional lace appliqués. A lace-up corset back and detachable bishop sleeves that cinch at the wrist add to the whimsical fantasy.",
+      "grade": "B",
+      "price": 24000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2022/04/05171355/product_img_6979_feature_img-scaled.jpg",
+      "CategoryId": 1,
+      "StoreId": 4
+    },
+    {
+      "name": "Megan Wedding Dress",
+      "description": "Our Megan designer wedding dress is a fierce fit and flare with romantic details. The sheer bodice has a strapless, sweetheart neckline with boning for structure and support. Stunning crystal beaded embroidered lace appliqués over Chantilly lace create a beautiful layered lace effect. Style the dress with our Tulle Overskirt with Crystal Beaded Waistband for a fuller silhouette, giving you two looks in one.",
+      "grade": "S",
+      "price": 25000000,
+      "mainImage": "https://d44ri6pmeripj.cloudfront.net/morilee/wp-content/uploads/2023/05/08102033/product_img_4123_feature_img-scaled.jpg",
+      "CategoryId": 2,
+      "StoreId": 3
+    }
+  ]

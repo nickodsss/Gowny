@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Store 1",
+        "address": "Jalan ABC 123",
+        "phoneNumber": "08734567843"
+    },
+    {
+        "name": "Store 2",
+        "address": "Jalan BCD 123",
+        "phoneNumber": "08734567843"
+    },
+    {
+        "name": "Store 3",
+        "address": "Jalan DEF 123",
+        "phoneNumber": "08734567843"
+    },
+    {
+        "name": "Store 4",
+        "address": "Jalan EFG 123",
+        "phoneNumber": "08734567843"
+    },
+    {
+        "name": "Store 5",
+        "address": "Jalan FGH 123",
+        "phoneNumber": "08734567843"
+    }
+]
